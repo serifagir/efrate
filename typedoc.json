@@ -1,0 +1,17 @@
+{
+  "entryPoints": ["./src/index.ts"],
+  "out": "docs/api",
+  "name": "Efrate Documentation",
+  "excludePrivate": true,
+  "excludeProtected": true,
+  "excludeExternals": true,
+  "readme": "README.md",
+  "theme": "default",
+  "includeVersion": true,
+  "categorizeByGroup": true,
+  "githubPages": true,
+  "cleanOutputDir": true,
+  "searchInComments": true,
+  "sort": ["alphabetical"],
+  "defaultCategory": "Main"
+} 
