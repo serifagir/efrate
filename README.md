@@ -1,4 +1,3 @@
-![Efrate GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hvMjRkZGxvdzJkYTRleTFjaWtxOHc3YmZvZnA0cnV1aHVjdTljYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26gsqRNkYickx6tlm/giphy.gif)
 
 # Efrate
 
@@ -7,10 +6,13 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.9%2B-blue)](https://www.typescriptlang.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Stars](https://img.shields.io/github/stars/serifagir/efrate)](https://github.com/serifagir/efrate/stargazers)
+[![Documentation](https://img.shields.io/badge/docs-online-brightgreen.svg)](https://serifagir.github.io/efrate/index.html)
 
 > 🚀 **Efrate** is a powerful TypeScript library that optimizes your AI API interactions by implementing intelligent caching, rate limiting, and request batching. It provides a unified interface for multiple AI providers (OpenAI, Anthropic, DeepSeek, Perplexity) to simplify your code while reducing costs and improving performance.
 
 Efrate is an efficient rate-limiting and optimization package for AI API requests. It helps you make the most of your AI API usage by implementing smart caching, rate limiting, and request batching.
+
+📦 [NPM Package](https://www.npmjs.com/package/efrate) | 📚 [Documentation](https://serifagir.github.io/efrate/index.html) | 💻 [GitHub Repository](https://github.com/serifagir/efrate)
 
 ## Features
 
